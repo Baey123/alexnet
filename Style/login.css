@@ -1,0 +1,85 @@
+body{
+    background-color: rgba(35,35,35,255);
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+nav{
+    background-color: rgba(0,0,0,255);
+    width: 100%;
+    position: fixed;
+    right: 0px;
+    top: -5px;
+    
+}
+li{
+    color: gray;
+    
+     display:inline;
+     font-size: 25px;
+     padding-left: 400px;
+}
+.material-icons{
+    color: white;
+    position:fixed;
+    left: 410px;
+    margin-top: 3px;
+    
+  }
+  div{
+    margin-top: 70px;
+    width: 400px;
+    display: inline-block;
+    position: static;
+    margin-left: 50px;
+    height: 400px;
+  }
+img{
+    width: 350px;
+    height: 350px;
+    display: fixed;
+}
+#aidi{
+    left: 875px;
+    margin-top: 3px;
+    
+}
+#aidi2{
+    left: 1385px;
+    margin-top: 3px;
+}
+h2{
+    color: whitesmoke;
+}
+
+    
+}
+a{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: white;
+    
+}
+a:hover{
+    background-color: rgb(172, 168, 168);
+}
+
+#batman{
+    width: 500px;
+    height: 700px;
+    padding-left: 100%;
+    top:0px
+    
+}
+#betmeni{
+    width: 1000px;
+    height: 1000px;
+    
+}
+#paragrafi{
+    width: 300px;
+    height: 300px;
+}
+
+
